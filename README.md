@@ -1,4 +1,4 @@
 # Lottery_Number
 Lottery number generator
 
-Nothing here
+Welcome to use the code to generate number for lottery/ lotto/ Mark Six
