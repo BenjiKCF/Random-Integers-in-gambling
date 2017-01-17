@@ -1,4 +1,2 @@
-# Lottery_Number
-Lottery number generator
-
-Welcome to use the code to generate number for lottery/ lotto/ Mark Six
+# Random number
+In order to have a better understanding into the randomness of the programming language itself, I specifically wrote the most 'Pythonic' way to generate truly random integer with the best syntax which will work on python 2.7 and 3.0.
